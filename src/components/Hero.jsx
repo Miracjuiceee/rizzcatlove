@@ -7,7 +7,7 @@ function Hero() {
     <>
       <main>
         <article>
-          <h1>$RIZZ FOR</h1>
+          <h1>$RIZZ</h1>
           <img src={RizzCat} alt='' srcset='' />
           <p>
             {" "}
