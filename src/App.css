@@ -41,3 +41,19 @@ img {
   -webkit-user-select: none;
   -ms-user-select: none;
 }
+
+#creator {
+  color: red;
+  text-align: center;
+}
+
+#creator a {
+  color: blueviolet;
+  text-decoration: none;
+}
+#Copyright {
+  text-align: center;
+  margin: 1em;
+  color: red;
+  font-weight: 600;
+}
