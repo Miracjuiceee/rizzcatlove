@@ -91,7 +91,7 @@ article img {
     align-items: center;
     width: 90%;
     height: 80%;
-    padding: 0em;
+    padding: 0.5em;
     align-content: center;
     background-color: hsl(0, 0%, 100%, 90%);
   }
