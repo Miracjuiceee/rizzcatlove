@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 5vh;
+  margin: 2em 0em;
+}
+
+button {
+  height: 5vh;
+  width: 15vw;
+  margin: 0em 1em;
+  background-color: red;
+  border-radius: 10px;
+  border: none;
+}

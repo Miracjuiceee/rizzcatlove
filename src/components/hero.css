@@ -1,0 +1,40 @@
+main {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 83vh;
+  margin: 1em 0em;
+  color: black;
+  background: url(../assets/banner.jpg) repeat center;
+}
+article {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  height: 83vh;
+  align-content: center;
+  background-color: hsl(0, 0%, 100%, 90%);
+}
+
+article h1 {
+  font-size: 89px;
+  color: rgb(255, 64, 64);
+}
+
+article p {
+  text-align: center;
+  width: 70%;
+}
+
+article img {
+  margin: 1.5em;
+  max-width: 512px;
+  min-width: 120px;
+}
+
+.red {
+  color: red;
+  font-size: 18px;
+  font-weight: 600;
+}
