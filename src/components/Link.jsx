@@ -28,7 +28,7 @@ function Link() {
     <>
       <nav>
         <button onClick={DexScreener}>DexScreener</button>
-        <button onClick={DexTool}>DexTool</button>
+        <button onClick={DexTool}>DexTools</button>
         <button onClick={Telegram}>Telegram</button>
         <button onClick={Twitter}>Twitter / X</button>
         <button onClick={BubbleMap}>BubbleMap</button>
